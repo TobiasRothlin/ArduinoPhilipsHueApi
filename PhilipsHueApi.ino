@@ -60,7 +60,7 @@ void setup()
 }
 
 void loop()
-{
+{ 
   //Delay to slow down polling frequency
   delay(1);
 
