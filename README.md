@@ -5,3 +5,6 @@ Philips Hue smart lamps have been steadily rising in popularity. As I replaced m
 
 ## Task:
 The traditional lamp switches have to be adapted to work with the Philips Hue lamps. Traditional lamp switches function like toggle buttons and the lamp functions as a state indicator. As an example, if the light is turned on and the button is pressed the light must be turned off. 
+
+## Result:
+#### Hardware
