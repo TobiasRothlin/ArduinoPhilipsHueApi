@@ -8,3 +8,4 @@ The traditional lamp switches have to be adapted to work with the Philips Hue la
 
 ## Result:
 #### Hardware
+![Screenshot](HueArduino-1.jpg)
