@@ -6,7 +6,7 @@
 //          1.0  Inital Version
 //----------------------------------------------------------------------------------------
 
-//Include Arduino Libary
+//Include Arduino Library
 #include <SPI.h>
 #include <Ethernet.h>
 #include <String.h>
